@@ -75,7 +75,7 @@ export class Navbar extends Component {
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
                 >
-                  Dropdown
+                  Country
                 </a>
                 <ul class="dropdown-menu">
                   <li>
