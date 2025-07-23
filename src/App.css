@@ -1,0 +1,35 @@
+body {
+  background-color: #121212; /* Dark background */
+  color: #e0e0e0; /* Light text color */
+}
+
+.navbar {
+  background-color: #1f1f1f !important; /* Navbar dark */
+}
+
+.card {
+  background-color: #1e1e1e; /* Card dark */
+  color: #e0e0e0; /* Text inside cards */
+  border: 1px solid #333;
+}
+
+.btn-primary {
+  background-color: #bb86fc; /* Purple button */
+  border-color: #bb86fc;
+}
+
+.btn-primary:hover {
+  background-color: #9a67ea;
+  border-color: #9a67ea;
+}
+
+.page-link {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+  border: 1px solid #333;
+}
+
+.page-link:hover {
+  background-color: #333;
+  color: #fff;
+}
