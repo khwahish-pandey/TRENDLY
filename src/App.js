@@ -5,7 +5,7 @@ import Navbar from "./components/navbar";
 import News from "./components/news";
 
 export default class App extends Component {
-  apikey=process.env.REACT_APP_API;
+  apikey="4b67732e0fbd9d9b218f8119b8643653";
   constructor(props) {
     super(props);
     this.state = {
